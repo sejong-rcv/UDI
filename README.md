@@ -13,5 +13,5 @@
 - (2기) 2026-1 : [멀티모달](https://github.com/sejong-rcv/UDI/blob/main/%EA%B3%B5%EA%B3%A0%EB%AC%B8/(2%E1%84%8E%E1%85%A1)%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%89%E1%85%B5%E1%86%AF%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%86%AB%20%E1%84%86%E1%85%A9%E1%84%8C%E1%85%B5%E1%86%B8%20(%E1%84%86%E1%85%A5%E1%86%AF%E1%84%90%E1%85%B5%E1%84%86%E1%85%A9%E1%84%83%E1%85%A1%E1%86%AF).pdf)
 
 ### "RCV-UDI 를 마치며" 후기 모음  
-- (1기) 2026-1 : 유지원, 김은아
+- (1기) 2026-1 : [유지원](https://server.rcv.sejong.ac.kr/2026/06/19/2026-1%ea%b8%b0%ec%9c%a0%ec%9e%ac%ec%9b%90-%ed%95%99%eb%b6%80%ea%b0%9c%eb%b0%9c%ec%9d%b8%ed%84%b4udi%ec%9d%84-%eb%a7%88%ec%b9%98%eb%a9%b0/), [김은아](https://server.rcv.sejong.ac.kr/2026/06/19/2026-1%ea%b8%b0%ea%b9%80%ec%9d%80%ec%95%84-%ed%95%99%eb%b6%80%ea%b0%9c%eb%b0%9c%ec%9d%b8%ed%84%b4udi%ec%9d%84-%eb%a7%88%ec%b9%98%eb%a9%b0/)
 - (2기) 2026-1 : 최승훈, 정현준, 천승원
